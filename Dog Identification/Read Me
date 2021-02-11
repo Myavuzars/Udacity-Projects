@@ -1,5 +1,18 @@
-In this project, I applied a pipeline to process real-world, user-supplied images. 
+In this project, I trianed my model with Pytorch and got 13% accuracy. 
 
-Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.
+And them I implemented transfer learning by using resnet152 anf increased the test accuracy to 78%.
 
-If supplied an image of a human, the code will identify the resembling dog breed.
+Having large classification (133 breeds) dropoed my acccuracy, but at the end I got almost 80 accuracy.
+
+Few examples are below:
+
+
+This is a Dog
+And, the predicted dog breed is  Anatolian shepherd dog
+*************************************************************************************
+
+Neither a dog or a human
+*************************************************************************************
+
+This is a Dog
+And, the predicted dog breed is  Bulldog
