@@ -6,7 +6,7 @@ In this project, I trained my model with Pytorch and got the 13% accuracy rate.
 
 And then, I implemented transfer learning by using resnet152 an fincreasd the accuracy rate to 78%.
 
-My code also categorize the human image as dod breed. Having large classsified data (133 dog breed) drops my acuracy rate.
+My code also categorizes the human image as dog breed. Having large classsified data (133 dog breed) drops my acuracy rate.
 
 Few examples are below:
 
