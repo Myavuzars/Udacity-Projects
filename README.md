@@ -12,3 +12,19 @@ Few examples are below:
 
 
 ![download1](https://user-images.githubusercontent.com/34040616/107596669-7684d900-6be6-11eb-8a3f-29212fc9f10d.png)
+
+This is a Dog
+And, the predicted dog breed is  Anatolian shepherd dog
+*************************************************************************************
+
+
+
+This is a Human
+Your predicted breed isAmerican foxhound
+*************************************************************************************
+
+
+
+This is a Dog
+And, the predicted dog breed is  Bulldog
+*************************************************************************************
