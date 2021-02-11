@@ -18,12 +18,14 @@ And, the predicted dog breed is  Anatolian shepherd dog
 *************************************************************************************
 
 
+![download4](https://user-images.githubusercontent.com/34040616/107596946-44c04200-6be7-11eb-835b-5c1605b9f5fa.png)
 
 This is a Human
 Your predicted breed isAmerican foxhound
 *************************************************************************************
 
 
+![download3](https://user-images.githubusercontent.com/34040616/107596967-543f8b00-6be7-11eb-932f-7443fe4fad4d.png)
 
 This is a Dog
 And, the predicted dog breed is  Bulldog
