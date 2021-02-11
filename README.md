@@ -1,4 +1,4 @@
-# Udacity-Projects
+# Udacity-Project
 Deep Learning Projects
 
 
