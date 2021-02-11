@@ -1,6 +1,6 @@
 # Udacity-Project
-Deep Learning Projects
 
+Project -1: Dog Identification App
 
 In this project, I trained my model with Pytorch and got the 13% accuracy rate. 
 
